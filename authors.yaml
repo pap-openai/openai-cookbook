@@ -101,7 +101,7 @@ justonf:
 aaronwilkowitz-openai:
   name: "Aaron Wilkowitz"
   website: "https://www.linkedin.com/in/aaronwilkowitz/"
-  avatar: "https://raw.githubusercontent.com/aaron-wilkowitz/asw_photo/main/asw_623_623.jpg"
+  avatar: "https://avatars.githubusercontent.com/u/157151487"
 
 charuj:
   name: "Charu Jaiswal"
@@ -113,3 +113,17 @@ rupert-openai:
   website: "https://www.linkedin.com/in/rupert-truman/"
   avatar: "https://avatars.githubusercontent.com/u/171234447"
   
+keelan-openai:
+  name: "Keelan Schule"
+  website: "https://www.linkedin.com/in/keelanschule/"
+  avatar: "https://avatars.githubusercontent.com/u/175734151?v=4"
+
+aa-openai:
+  name: "Allison August"
+  website: "https://www.linkedin.com/in/allisonaugust/"
+  avatar: "https://avatars.githubusercontent.com/u/172655668?v=4"
+
+alwestmo-openai:
+  name: "Anthony Westmoreland"
+  website: "https://www.linkedin.com/in/westmorelandanthony/"
+  avatar: "https://avatars2.githubusercontent.com/u/175844346"
